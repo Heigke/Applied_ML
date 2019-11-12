@@ -1,0 +1,10 @@
+// The Decision Tree
+digraph {
+	0 [label="
+id: 0
+label: hej
+attribute: {'color': ['y', 'g', 'b'], 'size': ['s', 'l'], 'shape': ['r', 'i']}
+entropy: 0.9886994082884974
+samples: 16
+classCounts: Counter({'+': 9, '-': 7})"]
+}
